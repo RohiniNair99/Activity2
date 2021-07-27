@@ -1,0 +1,6 @@
+C:\Users\ROHINI NAIR\source\repos\Activity2_2\Activity21DAL\obj\Debug\Activity21DAL.csproj.AssemblyReference.cache
+C:\Users\ROHINI NAIR\source\repos\Activity2_2\Activity21DAL\obj\Debug\Activity21DAL.csproj.CoreCompileInputs.cache
+C:\Users\ROHINI NAIR\source\repos\Activity2_2\Activity21DAL\bin\Debug\Activity21DAL.dll
+C:\Users\ROHINI NAIR\source\repos\Activity2_2\Activity21DAL\bin\Debug\Activity21DAL.pdb
+C:\Users\ROHINI NAIR\source\repos\Activity2_2\Activity21DAL\obj\Debug\Activity21DAL.dll
+C:\Users\ROHINI NAIR\source\repos\Activity2_2\Activity21DAL\obj\Debug\Activity21DAL.pdb

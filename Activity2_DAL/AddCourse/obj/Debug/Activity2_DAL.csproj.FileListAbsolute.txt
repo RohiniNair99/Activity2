@@ -1,0 +1,6 @@
+C:\Users\ROHINI NAIR\source\repos\Activity2_DAL\AddCourse\bin\Debug\AddCourse.dll
+C:\Users\ROHINI NAIR\source\repos\Activity2_DAL\AddCourse\bin\Debug\AddCourse.pdb
+C:\Users\ROHINI NAIR\source\repos\Activity2_DAL\AddCourse\obj\Debug\Activity2_DAL.csproj.AssemblyReference.cache
+C:\Users\ROHINI NAIR\source\repos\Activity2_DAL\AddCourse\obj\Debug\Activity2_DAL.csproj.CoreCompileInputs.cache
+C:\Users\ROHINI NAIR\source\repos\Activity2_DAL\AddCourse\obj\Debug\AddCourse.dll
+C:\Users\ROHINI NAIR\source\repos\Activity2_DAL\AddCourse\obj\Debug\AddCourse.pdb
